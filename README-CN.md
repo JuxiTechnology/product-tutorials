@@ -1,8 +1,6 @@
 # 产品教程
 官方产品说明书与详细教程，助力用户快速上手产品核心功能、解决使用难题。
 
-Official product documentation & detailed tutorials to help users master core features and troubleshoot issues efficiently.
-
 LeRobot机械臂教程链接：https://juxitech.feishu.cn/wiki/Wztzw95Cui2F9LkbMk8cnAoanCc?from=from_copylink
 
 USB免驱声卡教程链接：https://juxitech.feishu.cn/wiki/P3pRwx8Z3iIfvxkfbrpcbJSjnih?from=from_copylink
