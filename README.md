@@ -19,4 +19,4 @@ IMX219-CSI摄像头教程链接：https://juxitech.feishu.cn/wiki/WCIYw3BkFiRkpT
 
 树莓派/Jetson-OLED副屏教程链接：https://juxitech.feishu.cn/wiki/Ab6fwhBzrid9rwkY0Rycy0oNnrh?from=from_copylink
 
-部分商品教程需要密码，请前往淘宝搜索钜犀科技找客服
+部分商品教程需要密码，请前往淘宝搜索【钜犀科技】找客服
