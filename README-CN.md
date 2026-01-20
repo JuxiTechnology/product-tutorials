@@ -7,6 +7,8 @@ USB免驱声卡教程链接：https://juxitech.feishu.cn/wiki/P3pRwx8Z3iIfvxkfbr
 
 USB自动对焦摄像头教程链接：https://juxitech.feishu.cn/wiki/NTSNwt0rDi5zaQkaH1Ccnuifnec?from=from_copylink
 
+AmazingHand灵巧手教程链接：https://juxitech.feishu.cn/wiki/WqxUwGrGHiNi7wkqFkmcCGpXnE7?from=from_copylink 
+
 RealSense D405C教程链接：https://juxitech.feishu.cn/wiki/OSElwwOmYiVMNTkzo56c40g8nQe?from=from_copylink
 
 Jetson Orin Nano SUPER教程链接：https://juxitech.feishu.cn/wiki/Huqdw5xqXiv2qUkXNvdcO7fEntb?from=from_copylink
@@ -16,5 +18,11 @@ Jetson Orin NX SUPER教程链接：https://juxitech.feishu.cn/wiki/OQAlw3KLmixkG
 IMX219-CSI摄像头教程链接：https://juxitech.feishu.cn/wiki/WCIYw3BkFiRkpTkjd4RcbXuinUg?from=from_copylink
 
 树莓派/Jetson-OLED副屏教程链接：https://juxitech.feishu.cn/wiki/Ab6fwhBzrid9rwkY0Rycy0oNnrh?from=from_copylink
+
+4K高清HDMI采集器教程链接：https://juxitech.feishu.cn/wiki/KJA4w1WdOil625kwZ0mcjInmnZc?from=from_copylink
+
+飞特舵机STS3215调试教程链接：https://juxitech.feishu.cn/wiki/BhYawEjNvifRXDk61DqciIvjnzb?from=from_copylink
+
+舵机驱动板教程链接：https://juxitech.feishu.cn/wiki/TUB3w4zCkiS9Ipk5TbFchKr3nIf?from=from_copylink
 
 部分商品教程需要密码，请前往淘宝搜索【钜犀科技】找客服
