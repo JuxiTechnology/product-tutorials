@@ -11,8 +11,6 @@ AmazingHand灵巧手教程链接：https://juxitech.feishu.cn/wiki/WqxUwGrGHiNi7
 
 RealSense D405C教程链接：https://juxitech.feishu.cn/wiki/OSElwwOmYiVMNTkzo56c40g8nQe?from=from_copylink
 
-Jetson Orin Nano SUPER教程链接：https://juxitech.feishu.cn/wiki/Huqdw5xqXiv2qUkXNvdcO7fEntb?from=from_copylink
-
 Jetson Orin NX SUPER教程链接：https://juxitech.feishu.cn/wiki/OQAlw3KLmixkGMkNa1ycKdEkn2f?from=from_copylink
 
 IMX219-CSI摄像头教程链接：https://juxitech.feishu.cn/wiki/WCIYw3BkFiRkpTkjd4RcbXuinUg?from=from_copylink
